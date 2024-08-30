@@ -1,4 +1,4 @@
-![361129174-f9d21e15-00fd-4919-8565-fd50913e1db7](https://github.com/user-attachments/assets/e7f0f67f-cb23-45af-b286-7e205aa609b3)### EX9 Preprocessing on Twitter Data using Rapidminer
+### EX9 Preprocessing on Twitter Data using Rapidminer
 ### DATE: 
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
@@ -26,9 +26,13 @@ for this purpose.
 
 
 ### Output:
-![Uploading 361129174-f9d21![361129181-6330f511-fd4d-4964-9959-a8a98fc7b44e](https://github.com/user-attachments/assets/4e1ecd63-8410-4f60-9c4b-141085b0461f)
-e15-00fd-4919-8565-fd50913e1db7.pn![361129187-da31d49a-5737-4c11-ac6f-4def44e5a47a](https://github.com/user-attachments/assets/c6261e8a-cbad-4477-a758-97c53bf7f7a0)
-g…]()
+![361129174-f9d21e15-00fd-4919-8565-fd50913e1db7](https://github.com/user-attachments/assets/10502ef9-7461-4c10-8637-984800386586)
+
+![361129181-6330f511-fd4d-4964-9959-a8a98fc7b44e](https://github.com/user-attachments/assets/d9115188-7432-4153-8fd5-32b06ac77443)
+
+![361129187-da31d49a-5737-4c11-ac6f-4def44e5a47a](https://github.com/user-attachments/assets/436fc70a-8688-41ca-8ced-e175d2fb9197)
+
+
 
 
 ### Result:
